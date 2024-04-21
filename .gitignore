@@ -1,2 +1,4 @@
 unpacked
 **/*.epub
+**/*.json
+**/*.bak

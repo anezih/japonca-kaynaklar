@@ -1,0 +1,84 @@
+div.sumbox {
+  border: black 1px dashed;
+  margin: 1em;
+  padding: 1em;
+}
+
+div.sumbox[align="center"] {
+  display: none;
+}
+
+div.botmenu {
+  display: none;
+}
+
+div.outline {
+  text-align: left;
+}
+
+div.outline2 {
+  border: black 1px dashed;
+  margin-top: 1em;
+  padding: 1em;
+}
+
+em {
+  color: #ff7733;
+}
+
+.footer a img {
+  display: none;
+}
+
+.copyright span img {
+  display: none;
+}
+
+table.busayfa {
+  border: black 1px dashed;
+  margin-top: -3.5em;
+  padding: 1em;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid;
+  text-align: center;
+  padding: 2px;
+}
+
+tr {
+  border: 1px solid;
+  text-align: center;
+  padding: 2px;
+}
+
+td {
+  border: 1px solid;
+  text-align: center;
+  padding: 2px;
+}
+
+p {
+  display: block;
+  text-align: justify;
+}
+
+span.small {
+  display: none;
+}
+
+span.hide {
+  color: #bd0202;
+}
+
+span.summary {
+  margin-left: 16px;
+}
+
+span.aciklamali {
+  font-size: 125%;
+  color: #1e7fb0;
+  display: inline-block;
+}
