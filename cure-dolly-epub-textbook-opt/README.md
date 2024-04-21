@@ -1,6 +1,6 @@
 epub dosyaları içindeki PNG resim dosyalarını pngquant (https://pngquant.org) yardımıyla sıkıştırabilen basit bir Python betiği. Özelde YouTube'da yer alan "Organic Japanese with Cure Dolly"nin Japonca gramer videolarının transkipsiyonun yer aldığı "Cure Dolly Complete Grammar Series Transcript (in minor editing)" dosyasının epub çıktısını sıkıştırması için oluşturulmuştur. pngquant programının PATH'de olması gerekmektedir.
 
-# Usage
+# Kullanım
 
 `
 python.exe opt.py --help
