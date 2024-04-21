@@ -2,4 +2,4 @@ Bu repoda internette ücretsiz ve açık şekilde bulunabilen (İngilizce veya T
 
 # ["Cure Dolly Complete Grammar Series Transcript (in minor editing)" epub](/cure-dolly-epub-textbook-opt/)
 
-YouTube videoları şeklinde Cure Dolly tarafından oluşturulan gramer serisinin yazılı biçiminin epub dosyası. [Releases sayfası]().
+YouTube videoları şeklinde Cure Dolly tarafından oluşturulan gramer serisinin yazılı biçiminin epub dosyası. [Releases sayfası](https://github.com/anezih/japonca-kaynaklar/releases/tag/cure-dolly-grammar-v1).
