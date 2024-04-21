@@ -28,6 +28,6 @@ options:
 # Credits
 This particular script doesn't do much actually, all the credits belong to the people/projects below.
 
-- [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49): Created all Japanese videos on YouTube.
-- [Mordraug/Nunko](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc) Psrepared transcripts in the form of Google Docs.
+- [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49): Created the Japanese grammar videos on YouTube.
+- [Mordraug/Nunko](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc) Prepared transcripts in the form of Google Docs.
 - [pngquant](https://pngquant.org) Program used for compressing PNG files.
