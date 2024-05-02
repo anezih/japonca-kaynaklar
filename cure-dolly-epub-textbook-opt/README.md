@@ -25,6 +25,6 @@ options:
 # Katkıda Bulunanlar
 Bu betiğin yaptığı çok da bir şey yok açıkcası, asıl değerli katkıları verenler aşağıda sıralanmıştır.
 
-- [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49): Japonca (gramer) videolarının hazırlaryıcı.
+- [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49): Japonca (gramer) videolarının hazırlayıcısı.
 - [Mordraug/Nunko](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc) Videoların transkipsiyonunu yapıp Google Docs'a aktaran kişi/ler.
 - [pngquant](https://pngquant.org) PNG sıkıştırmasında kullanılan program.
